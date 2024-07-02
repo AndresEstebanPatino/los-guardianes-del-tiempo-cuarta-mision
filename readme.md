@@ -6,7 +6,7 @@
 
 <h1> El cifrado de Enigma (Década 1940) </h1>
 
-En la década de 1940, la criptografía avanzó significativamente con la creación de la máquina Enigma. Hoy debéis enfrentar un desafío similar para asegurar que un mensaje crucial para el desarrollo tecnológico no se pierda en el tiempo. 
+En la década de 1940, la criptografía avanzó significativamente con la creación de la máquina Enigma. Pero como es de costumbre, tenemos un pequeño inconveniente:  ¡los mensajes cifrados han sido mezclados con recetas secretas de la abuela del comandante! Ahora, además de decodificar los mensajes cruciales, tendréis que evitar confundirlos con instrucciones para hacer pasteles de manzana y galletas de avena. 
 
 Prueba: 
 
