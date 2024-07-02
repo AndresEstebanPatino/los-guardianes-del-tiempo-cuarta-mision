@@ -53,4 +53,4 @@ Recursos:
     <li>Diosito</li>
 </ul>
 
-Pista: Se puede usar cualquier lenguaje de proigramación. 
+Pista: Se puede usar cualquier lenguaje de programación. 
